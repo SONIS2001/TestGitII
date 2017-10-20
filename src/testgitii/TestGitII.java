@@ -16,6 +16,9 @@ public class TestGitII {
      */
     public static void main(String[] args) {
         System.out.println(" Hola soy una clase ");
+        
+        System.out.println("Hola soy otro mensaje");
     }
+    
     
 }
